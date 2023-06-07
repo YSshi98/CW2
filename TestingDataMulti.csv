@@ -1,3 +1,4 @@
+R1-PA1:VH,R1-PM1:V,R1-PA2:VH,R1-PM2:V,R1-PA3:VH,R1-PM3:V,R1-PA4:IH,R1-PM4:I,R1-PA5:IH,R1-PM5:I,R1-PA6:IH,R1-PM6:I,R1-PA7:VH,R1-PM7:V,R1-PA8:VH,R1-PM8:V,R1-PA9:VH,R1-PM9:V,R1-PA10:IH,R1-PM10:I,R1-PA11:IH,R1-PM11:I,R1-PA12:IH,R1-PM12:I,R1:F,R1:DF,R1-PA:Z,R1-PA:ZH,R1:S,R2-PA1:VH,R2-PM1:V,R2-PA2:VH,R2-PM2:V,R2-PA3:VH,R2-PM3:V,R2-PA4:IH,R2-PM4:I,R2-PA5:IH,R2-PM5:I,R2-PA6:IH,R2-PM6:I,R2-PA7:VH,R2-PM7:V,R2-PA8:VH,R2-PM8:V,R2-PA9:VH,R2-PM9:V,R2-PA10:IH,R2-PM10:I,R2-PA11:IH,R2-PM11:I,R2-PA12:IH,R2-PM12:I,R2:F,R2:DF,R2-PA:Z,R2-PA:ZH,R2:S,R3-PA1:VH,R3-PM1:V,R3-PA2:VH,R3-PM2:V,R3-PA3:VH,R3-PM3:V,R3-PA4:IH,R3-PM4:I,R3-PA5:IH,R3-PM5:I,R3-PA6:IH,R3-PM6:I,R3-PA7:VH,R3-PM7:V,R3-PA8:VH,R3-PM8:V,R3-PA9:VH,R3-PM9:V,R3-PA10:IH,R3-PM10:I,R3-PA11:IH,R3-PM11:I,R3-PA12:IH,R3-PM12:I,R3:F,R3:DF,R3-PA:Z,R3-PA:ZH,R3:S,R4-PA1:VH,R4-PM1:V,R4-PA2:VH,R4-PM2:V,R4-PA3:VH,R4-PM3:V,R4-PA4:IH,R4-PM4:I,R4-PA5:IH,R4-PM5:I,R4-PA6:IH,R4-PM6:I,R4-PA7:VH,R4-PM7:V,R4-PA8:VH,R4-PM8:V,R4-PA9:VH,R4-PM9:V,R4-PA10:IH,R4-PM10:I,R4-PA11:IH,R4-PM11:I,R4-PA12:IH,R4-PM12:I,R4:F,R4:DF,R4-PA:Z,R4-PA:ZH,R4:S,control_panel_log1,control_panel_log2,control_panel_log3,control_panel_log4,relay1_log,relay2_log,relay3_log,relay4_log,snort_log1,snort_log2,snort_log3,snort_log4
 -100.141563,132336.7191,139.881916,132311.6458,19.875906,132411.9389,-90.590357,231.45104,142.431578,254.33979,30.14331,230.35238,-100.124375,132361.7923,0,0,0,0,-92.830622,238.22611,-30.882425,12.8177,96.978836,13.18392,60,0,19.22620059,-0.20197,0,-103.999329,131760.9063,136.051945,131611.3906,16.004334,131849.4375,75.45685,236.715317,-51.094668,258.533478,-163.74298,233.808518,-103.977356,131740.8281,0,0,0,0,73.396912,242.603302,134.57978,12.834549,-94.007268,12.531281,60,0,18.50702195,3.127529,0,-103.997569,131308.715,136.037369,131258.5685,16.042818,131308.715,75.200711,235.47946,-51.021892,256.17089,-163.99198,231.81726,-103.974651,131283.6417,0,0,0,0,73.264113,240.78965,134.158068,12.45148,-92.567061,11.71904,60,0,18.38930314,3.138505,0,-100.072809,132386.8656,139.944942,131760.0339,19.944661,132462.0854,-90.848188,230.90171,142.758164,252.32558,29.971422,228.15506,-100.061349,132211.3527,0,0,0,0,-92.847811,236.76123,-31.065772,12.26837,100.416583,12.08526,60,0,19.04733708,-0.18182,0,0,0,0,0,0,0,0,0,0,0,0,0
 -100.267614,132311.6458,139.732947,132311.6458,19.738396,132411.9389,-92.280582,236.94434,141.944564,255.43845,28.36714,236.39501,-100.261885,132336.7191,0,0,0,0,-94.091129,242.62075,-33.581056,10.43727,94.48647,10.9866,60,0,18.16056717,-0.169329,0,-104.142155,131756.3438,135.914617,131610.8594,15.872497,131844.6875,73.693547,242.912293,-51.457214,259.328857,-165.566723,240.411758,-104.114691,131736.8125,0,0,0,0,72.138976,247.289658,130.981759,10.128021,-95.847478,9.922028,60,0,17.36040309,-3.121405,0,-104.135079,131283.6417,135.899859,131258.5685,15.899579,131308.715,73.464648,241.15587,-51.428692,256.72022,-165.831175,238.59233,-104.106431,131283.6417,0,0,0,0,71.992147,245.18429,130.989611,9.70483,-95.191208,9.33861,60,0,17.31708365,-3.11487,0,-100.204589,132386.8656,139.795972,131760.0339,19.801421,132462.0854,-92.412363,236.02879,142.328446,253.24113,28.286926,234.01458,-100.198859,132186.2794,0,0,0,0,-94.022374,240.97276,-33.414899,10.07105,98.239344,10.07105,60,0,18.04976223,-0.154024,0,0,0,0,0,0,0,0,0,0,0,0,0
 -100.301992,132336.7191,139.710029,132286.5725,19.726937,132411.9389,-92.58998,237.67678,141.881539,255.43845,28.069202,237.67678,-100.284803,132336.7191,0,0,0,0,-94.303124,243.35319,-33.856076,9.88794,93.386391,10.80349,59.999,0,18.01781478,-0.164832,0,-104.153138,131757.5156,135.892638,131613.0625,15.845031,131842.875,73.484803,243.661881,-51.506655,259.202942,-165.841378,240.852356,-104.136664,131737.4375,0,0,0,0,71.963201,247.655869,130.531308,9.876251,-95.891423,9.45282,60,0,17.19653035,-3.116721,0,-104.157998,131283.6417,135.871212,131283.6417,15.893849,131308.715,73.436001,241.88831,-51.549013,257.08644,-166.083276,239.14166,-104.12362,131283.6417,0,0,0,0,71.860367,245.73362,131.734456,9.70483,-97.162183,9.1555,60,0,17.18780719,-3.117274,0,-100.238966,132386.8656,139.784513,131760.0339,19.778503,132462.0854,-92.630087,237.12745,142.082074,253.79046,27.920233,234.93013,-100.221778,132186.2794,0,0,0,0,-94.297394,241.7052,-33.311766,10.07105,96.910081,9.70483,60,0,17.88132317,-0.152653,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -27,7 +28,187 @@
 -114.488427,131509.3012,125.512135,130882.4694,5.523313,131559.4477,-116.081249,410.89884,122.481188,416.75836,4.022164,409.98329,-114.476968,131308.715,0,0,0,0,-116.522427,412.54683,-61.340862,4.21153,68.342406,4.02842,60,0,9.342251562,0.020946,0,-120.865447,129578.6594,119.175221,129528.5128,-0.825059,129578.6594,55.410748,415.6597,-65.98182,422.06855,175.623023,414.74415,-120.836799,129553.5861,0,0,0,0,55.009678,417.4908,109.904764,4.39464,-116.224489,4.39464,60.001,0,9.119089305,-3.081832,0,-120.894095,129528.5128,119.135114,129503.4396,-0.865166,129578.6594,55.376371,413.09616,-66.268299,417.85702,175.330815,412.36372,-120.882636,129528.5128,0,0,0,0,54.809143,414.37793,107.65304,4.57775,-132.129797,4.02842,59.999,0,9.133181501,-3.088585,0,-114.606626,131926.0313,125.450139,131773.3906,5.397034,132008.5469,-116.029355,408.14209,122.544249,414.716736,4.056702,408.708557,-114.579169,131900.2656,0,0,0,0,-116.479806,410.482422,-57.093203,3.845215,65.239563,4.325867,60,0,9.450460458,0.015817,0,0,0,0,0,0,0,0,0,0,0,0,0
 -61.885171,131534.3744,178.155497,131509.3012,58.155216,131584.521,-64.446293,401.92645,176.029823,402.29267,56.419154,399.1798,-61.862253,131534.3744,0,0,0,0,-64.005115,401.19401,0,0,0,0,60,0,9.371706779,0.060199,0,-67.936709,130203.8125,172.125548,130047.0547,52.066956,130274.3281,107.020574,406.642914,-12.582093,405.670166,-132.442941,405.057922,-67.920228,130172.8125,0,0,0,0,107.328192,405.784607,0,0,0,0,59.999001,0,9.114966571,-3.044957,0,-67.935606,129704.0257,172.110792,129678.9524,52.116241,129729.099,106.873818,404.6731,-12.691015,403.57444,-132.63973,402.47578,-67.906958,129704.0257,0,0,0,0,107.171756,403.57444,0,0,0,0,60,0,9.108416304,-3.040922,0,-61.810687,131584.521,178.207063,130957.6892,58.212512,131634.6675,-64.245758,399.54602,176.001176,398.63047,56.270185,396.98248,-61.799228,131383.9348,0,0,0,0,-63.993656,398.44736,0,0,0,0,60,0,9.383435653,0.051601,0,0,0,0,0,0,0,0,0,0,0,0,0
 -61.896631,131534.3744,178.149767,131509.3012,58.149487,131584.521,-64.446293,401.92645,176.012635,402.10956,56.413425,399.1798,-61.873712,131534.3744,0,0,0,0,-64.010845,401.19401,0,0,0,0,60,0,9.369738107,0.059484,0,-67.95319,130198.9141,172.120057,130053.3672,52.066956,130287.4531,107.070011,406.660095,-12.64801,405.653015,-132.464907,405.258179,-67.925719,130177.5156,0,0,0,0,107.317203,405.853272,0,0,0,0,60,0,9.115741814,-3.048192,0,-67.941335,129704.0257,172.105063,129678.9524,52.104782,129729.099,106.868088,404.48999,-12.691015,403.39133,-132.634,402.65889,-67.912687,129704.0257,0,0,0,0,107.177485,403.57444,0,0,0,0,60,0,9.115270045,-3.04163,0,-61.816417,131584.521,178.201333,130957.6892,58.212512,131634.6675,-64.297324,399.91224,176.006905,398.44736,56.235808,396.98248,-61.804957,131383.9348,0,0,0,0,-64.022304,398.44736,0,0,0,0,59.999,0,9.361002415,0.053108,0,0,0,0,0,0,0,0,0,0,0,0,0
--62.18311,131534.3744,177.851829,131509.3012,57.845819,131609.5942,-65.088006,403.02511,175.250601,403.75755,55.66285,401.19401,-62.165921,131559.4477,0,0,0,0,-64.727042,402.65889,0,0,0,0,60,0,9.353883522,0.062626,0,-68.244327,130200.0859,171.823435,130051.4609,51.770327,130278.2969,106.388857,407.787323,-13.439026,407.775879,-133.19,407.306671,-68.222354,130175.4531,0,0,0,0,106.586612,407.615662,0,0,0,0,59.999001,0,9.114611929,-3.043386,0,-68.239273,129704.0257,171.807124,129704.0257,51.812573,129729.099,106.363885,405.58865,-13.418672,405.22243,-133.287172,403.75755,-68.210626,129704.0257,0,0,0,0,106.547232,404.85621,0,0,0,0,60,0,9.102715122,-3.040088,0,-62.114355,131584.521,177.897666,130957.6892,57.908844,131634.6675,-64.870282,400.82779,175.411029,399.54602,55.622743,398.44736,-62.102895,131383.9348,0,0,0,0,-64.61818,399.54602,0,0,0,0,59.999,0,9.341678447,0.056532,0,0,0,0,0,0,0,0,0,0,0,0,0
+-62.18311import pandas as pd
+         import numpy as np
+         from sklearn.tree import DecisionTreeClassifier
+         from sklearn.metrics import confusion_matrix, f1_score
+         from sklearn.model_selection import cross_val_score
+         import matplotlib.pyplot as plt
+
+         def load_data(training_file, testing_file):
+             training_data = pd.read_csv(training_file)
+             testing_data = pd.read_csv(testing_file)
+             return training_data, testing_data
+
+         def extract_features(training_data):
+             X_train = training_data.iloc[:, :-1]
+             y_train = training_data.iloc[:, -1]
+             return X_train, y_train
+
+         def train_model(X_train, y_train, model, cv=5, scoring='f1_macro'):
+             scores = cross_val_score(model, X_train, y_train, cv=cv, scoring=scoring)
+             print("Cross-Validation Scores:", scores)
+             model.fit(X_train, y_train)
+             return model
+
+         def make_predictions(X_test, model, testing_data, output_file):
+             predicted_labels = model.predict(X_test)
+             testing_results = pd.DataFrame(testing_data)
+             testing_results['label'] = predicted_labels
+             testing_results.to_csv(output_file, index=False)
+             return testing_results
+
+         def evaluate_model(y_train, y_pred, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+             f1 = f1_score(y_train, y_pred, average='macro')
+             cm = confusion_matrix(y_train, y_pred)
+             plot_confusion_matrix(cm, title, labels)
+             print("F1 Score:", f1)
+
+         def plot_confusion_matrix(cm, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+             plt.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+             plt.title(title)
+             plt.colorbar()
+             tick_marks = np.arange(len(labels))
+             plt.xticks(tick_marks, labels)
+             plt.yticks(tick_marks, labels)
+             plt.xlabel('Predicted Label')
+             plt.ylabel('True Label')
+
+             for i in range(cm.shape[0]):
+                 for j in range(cm.shape[1]):
+                     plt.text(j, i, format(cm[i, j]), ha='center', va='center')
+
+             plt.show()
+
+         if __name__ == "__main__":
+             training_data, testing_data = load_data("TrainingDataMulti.csv", "TestingDataMulti.csv")
+             X_train, y_train = extract_features(training_data)
+             X_test = testing_data
+             model = DecisionTreeClassifier(random_state=0)
+             model = train_model(X_train, y_train, model)
+             testing_results = make_predictions(X_test, model, testing_data, "TestingResultsMulti.csv")
+             evaluate_model(y_train, model.predict(X_train))
+import pandas as pd
+import numpy as np
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import confusion_matrix, f1_score
+from sklearn.model_selection import cross_val_score
+import matplotlib.pyplot as plt
+
+def load_data(training_file, testing_file):
+    training_data = pd.read_csv(training_file)
+    testing_data = pd.read_csv(testing_file)
+    return training_data, testing_data
+
+def extract_features(training_data):
+    X_train = training_data.iloc[:, :-1]
+    y_train = training_data.iloc[:, -1]
+    return X_train, y_train
+
+def train_model(X_train, y_train, model, cv=5, scoring='f1_macro'):
+    scores = cross_val_score(model, X_train, y_train, cv=cv, scoring=scoring)
+    print("Cross-Validation Scores:", scores)
+    model.fit(X_train, y_train)
+    return model
+
+def make_predictions(X_test, model, testing_data, output_file):
+    predicted_labels = model.predict(X_test)
+    testing_results = pd.DataFrame(testing_data)
+    testing_results['label'] = predicted_labels
+    testing_results.to_csv(output_file, index=False)
+    return testing_resultimport pandas as pd
+                         import numpy as np
+                         from sklearn.tree import DecisionTreeClassifier
+                         from sklearn.metrics import confusion_matrix, f1_score
+                         from sklearn.model_selection import cross_val_score
+                         import matplotlib.pyplot as plt
+
+                         def load_data(training_file, testing_file):
+                             training_data = pd.read_csv(training_file)
+                             testing_data = pd.read_csv(testing_file)
+                             return training_data, testing_data
+
+                         def extract_features(training_data):
+                             X_train = training_data.iloc[:, :-1]
+                             y_train = training_data.iloc[:, -1]
+                             return X_train, y_train
+
+                         def train_model(X_train, y_train, model, cv=5, scoring='f1_macro'):
+                             scores = cross_val_score(model, X_train, y_train, cv=cv, scoring=scoring)
+                             print("Cross-Validation Scores:", scores)
+                             model.fit(X_train, y_train)
+                             return model
+
+                         def make_predictions(X_test, model, testing_data, output_file):
+                             predicted_labels = model.predict(X_test)
+                             testing_results = pd.DataFrame(testing_data)
+                             testing_results['label'] = predicted_labels
+                             testing_results.to_csv(output_file, index=False)
+                             return testing_results
+
+                         def evaluate_model(y_train, y_pred, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+                             f1 = f1_score(y_train, y_pred, average='macro')
+                             cm = confusion_matrix(y_train, y_pred)
+                             plot_confusion_matrix(cm, title, labels)
+                             print("F1 Score:", f1)
+
+                         def plot_confusion_matrix(cm, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+                             plt.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+                             plt.title(title)
+                             plt.colorbar()
+                             tick_marks = np.arange(len(labels))
+                             plt.xticks(tick_marks, labels)
+                             plt.yticks(tick_marks, labels)
+                             plt.xlabel('Predicted Label')
+                             plt.ylabel('True Label')
+
+                             for i in range(cm.shape[0]):
+                                 for j in range(cm.shape[1]):
+                                     plt.text(j, i, format(cm[i, j]), ha='center', va='center')
+
+                             plt.show()
+
+                         if __name__ == "__main__":
+                             training_data, testing_data = load_data("TrainingDataMulti.csv", "TestingDataMulti.csv")
+                             X_train, y_train = extract_features(training_data)
+                             X_test = testing_data
+                             model = DecisionTreeClassifier(random_state=0)
+                             model = train_model(X_train, y_train, model)
+                             testing_results = make_predictions(X_test, model, testing_data, "TestingResultsMulti.csv")
+                             evaluate_model(y_train, model.predict(X_train))
+s
+
+def evaluate_model(y_train, y_pred, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+    f1 = f1_score(y_train, y_pred, average='macro')
+    cm = confusion_matrix(y_train, y_pred)
+    plot_confusion_matrix(cm, title, labels)
+    print("F1 Score:", f1)
+
+def plot_confusion_matrix(cm, title='Confusion Matrix', labels=['Normal (0)', 'Data Injection (1)', 'Command Injection (2)']):
+    plt.imshow(cm, interpolation='nearest', cmap=plt.cm.Blues)
+    plt.title(title)
+    plt.colorbar()
+    tick_marks = np.arange(len(labels))
+    plt.xticks(tick_marks, labels)
+    plt.yticks(tick_marks, labels)
+    plt.xlabel('Predicted Label')
+    plt.ylabel('True Label')
+
+    for i in range(cm.shape[0]):
+        for j in range(cm.shape[1]):
+            plt.text(j, i, format(cm[i, j]), ha='center', va='center')
+
+    plt.show()
+
+if __name__ == "__main__":
+    training_data, testing_data = load_data("TrainingDataMulti.csv", "TestingDataMulti.csv")
+    X_train, y_train = extract_features(training_data)
+    X_test = testing_data
+    model = DecisionTreeClassifier(random_state=0)
+    model = train_model(X_train, y_train, model)
+    testing_results = make_predictions(X_test, model, testing_data, "TestingResultsMulti.csv")
+    evaluate_model(y_train, model.predict(X_train))
+,131534.3744,177.851829,131509.3012,57.845819,131609.5942,-65.088006,403.02511,175.250601,403.75755,55.66285,401.19401,-62.165921,131559.4477,0,0,0,0,-64.727042,402.65889,0,0,0,0,60,0,9.353883522,0.062626,0,-68.244327,130200.0859,171.823435,130051.4609,51.770327,130278.2969,106.388857,407.787323,-13.439026,407.775879,-133.19,407.306671,-68.222354,130175.4531,0,0,0,0,106.586612,407.615662,0,0,0,0,59.999001,0,9.114611929,-3.043386,0,-68.239273,129704.0257,171.807124,129704.0257,51.812573,129729.099,106.363885,405.58865,-13.418672,405.22243,-133.287172,403.75755,-68.210626,129704.0257,0,0,0,0,106.547232,404.85621,0,0,0,0,60,0,9.102715122,-3.040088,0,-62.114355,131584.521,177.897666,130957.6892,57.908844,131634.6675,-64.870282,400.82779,175.411029,399.54602,55.622743,398.44736,-62.102895,131383.9348,0,0,0,0,-64.61818,399.54602,0,0,0,0,59.999,0,9.341678447,0.056532,0,0,0,0,0,0,0,0,0,0,0,0,0
 -62.423752,131534.3744,177.611187,131509.3012,57.616636,131609.5942,-65.351566,402.842,174.826612,404.48999,55.25032,401.92645,-62.400833,131534.3744,0,0,0,0,-65.093735,403.02511,0,0,0,0,60,0,9.371723795,0.05992,0,-68.480528,130202.3906,171.58722,130063.3594,51.539614,130291.9063,106.053775,408.285156,-13.867493,408.611298,-133.640451,407.546997,-68.453064,130183.5391,0,0,0,0,106.18012,408.136353,0,0,0,0,60,0,9.100337896,-3.042096,0,-68.474186,129704.0257,171.572212,129704.0257,51.571931,129729.099,106.002922,405.77176,-13.84266,405.77176,-133.762727,404.48999,-68.445538,129704.0257,0,0,0,0,106.123243,405.22243,0,0,0,0,60,0,9.096492684,-3.039701,0,-62.349267,131559.4477,177.657024,130932.6159,57.668202,131634.6675,-65.139572,400.82779,174.99277,400.27846,55.193024,399.1798,-62.337808,131383.9348,0,0,0,0,-64.990603,400.09535,0,0,0,0,60,0,9.346561296,0.054281,0,0,0,0,0,0,0,0,0,0,0,0,0
 -62.44667,131534.3744,177.588269,131509.3012,57.587988,131584.521,-65.385944,403.02511,174.786505,404.6731,55.181565,401.74334,-62.429481,131534.3744,0,0,0,0,-65.139572,403.02511,0,0,0,0,60,0,9.361190993,0.060753,0,-68.507999,130200.8203,171.559763,130052.9297,51.506655,130282.8984,106.026311,408.021912,-13.894959,408.737183,-133.717346,407.592773,-68.480528,130176.0938,0,0,0,0,106.136174,408.119202,0,0,0,0,60,0,9.106324431,-3.042359,0,-68.502834,129704.0257,171.537834,129678.9524,51.543283,129754.1723,105.980003,405.40554,-13.882767,405.58865,-133.802834,404.48999,-68.474186,129704.0257,0,0,0,0,106.094595,405.22243,0,0,0,0,60,0,9.108365533,-3.040601,0,-62.377915,131584.521,177.634105,130932.6159,57.639554,131634.6675,-65.133842,400.82779,174.952663,400.27846,55.095622,399.36291,-62.372186,131383.9348,0,0,0,0,-65.03071,400.09535,0,0,0,0,59.999,0,9.338635268,0.052366,0,0,0,0,0,0,0,0,0,0,0,0,0
 -62.4524,131534.3744,177.582539,131509.3012,57.582258,131609.5942,-65.391673,403.02511,174.757857,404.48999,55.164377,401.92645,-62.435211,131534.3744,0,0,0,0,-65.15676,403.20822,0,0,0,0,60,0,9.359788591,0.059736,0,-68.513491,130200.5313,171.554271,130058.1172,51.50116,130286.7656,105.982365,408.124939,-13.905945,408.737183,-133.711854,407.747253,-68.486027,130179.7656,0,0,0,0,106.119693,408.19931,0,0,0,0,60,0,9.10650972,-3.041393,0,-68.514293,129704.0257,171.532105,129704.0257,51.537554,129729.099,105.968544,405.40554,-13.888497,405.58865,-133.791375,404.30688,-68.479916,129704.0257,0,0,0,0,106.094595,405.03932,0,0,0,0,60,0,9.110291312,-3.040045,0,-62.389374,131584.521,177.622646,130957.6892,57.633825,131634.6675,-65.15676,400.82779,174.935474,400.46157,55.147188,399.36291,-62.377915,131383.9348,0,0,0,0,-65.02498,400.27846,0,0,0,0,60,0,9.351962752,0.053171,0,0,0,0,0,0,0,0,0,0,0,0,0
